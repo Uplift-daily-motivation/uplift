@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uplift-daily-motivation.github.io/uplift/sitemap.xml
